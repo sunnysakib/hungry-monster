@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to right, #1f4037, #99f2c8);
+}
+.button {
+    background-color: #F06C4E;
+}
+.nav {
+    color: whitesmoke;
+    font-weight: 800;
+}
+.navImg {
+    width: 50px;
+}
+.Search {
+    margin-top: 100px;
+}
+
+.meal-name h3 {
+    font-size: 90%;
+    text-align: center;
+}
+
+#mealsItem {
+    margin-top: 80px;
+}
+
+.meal {
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.79);
+    margin: 20px 0;
+    margin-left: 20px;
+    padding: 0;
+   
+    
+    background-color: #E5E5E5;
+}
+
+.meal-img img {
+     /* width: 280px;
+     height: 200px; */
+     width: 100%;
+    display: block;
+}
+.meal-name {
+    padding: 20px 15px;
+}
